@@ -12,7 +12,7 @@ Identify customers for marketing campaigns that are most likely to buy the targe
 
 2.  Click the Start Your Free Trial button.
 
-> <img src="https://raw.githubusercontent.com/IBMDataScience/Strata2017/master/images/DSX%20Sign%20Up.png" width="624" height="300">
+> <img src="https://github.com/IBMDataScience/Strata-NewYork-2018/blob/master/Sales%20Product-Line%20Prediction/Images/Get%20Watson%20Studio.png" width="624" height="300">
 
 
 ## Data
